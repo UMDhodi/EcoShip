@@ -50,7 +50,7 @@
 
 ## Demo and Link
 
-[Video](https://github.com/UMDhodi/EcoShip/blob/main/sample%20of%20prototype-VEED.mp4)
+[Video Link]([https://github.com/UMDhodi/EcoShip/blob/main/sample%20of%20prototype-VEED.mp4](https://drive.google.com/file/d/1Q8MRCeIKqptYOic0lDNLuz03gHmvEV8x/view?usp=sharing))
 
 [🔗 EcoShip](https://ecoship-ptorotype.netlify.app/)
 
