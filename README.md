@@ -48,9 +48,7 @@
 * Ensures compatibility with various devices and stable performance.
 
 
-## Demo and Link
-
-[Video Link]([https://github.com/UMDhodi/EcoShip/blob/main/sample%20of%20prototype-VEED.mp4](https://drive.google.com/file/d/1Q8MRCeIKqptYOic0lDNLuz03gHmvEV8x/view?usp=sharing))
+## Deployment Link
 
 [🔗 EcoShip](https://ecoship-ptorotype.netlify.app/)
 
