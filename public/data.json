@@ -1,0 +1,29 @@
+[
+  {
+    "Adjusted distance (km)": 131.64336838748218,
+    "Carbon emission (kg CO2)": 15.797204206497861,
+    "Estimated delivery days": 2,
+    "Package ID": "1528550",
+    "Point-to-point distance (km)": 109.7028069895685,
+    "Transport Mode": "Truck",
+    "Weight": 12.5
+  },
+  {
+    "Adjusted distance (km)": 115.96018271215011,
+    "Carbon emission (kg CO2)": 13.915221925458013,
+    "Estimated delivery days": 2,
+    "Package ID": "1528551",
+    "Point-to-point distance (km)": 96.63348559345843,
+    "Transport Mode": "Plane",
+    "Weight": 80.25
+  },
+  {
+    "Adjusted distance (km)": 165.80844164991245,
+    "Carbon emission (kg CO2)": 19.897012997989492,
+    "Estimated delivery days": 2,
+    "Package ID": "1528552",
+    "Point-to-point distance (km)": 138.17370137492705,
+    "Transport Mode": "Truck",
+    "Weight": 30.1
+  }
+]
